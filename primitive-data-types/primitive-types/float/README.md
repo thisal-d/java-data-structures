@@ -95,4 +95,5 @@ public class FloatExamples {
     }
 }
 ```
-> **For more:** [`FloatExamples.java`](./FloatExamples.java)
+
+> **For more:** [`FloatExample.java`](./FloatExample.java)

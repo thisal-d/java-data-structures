@@ -96,4 +96,5 @@ public class DoubleExamples {
     }
 }
 ```
-> **For more:** [`DoubleExamples.java`](./DoubleExamples.java)
+
+> **For more:** [`DoubleExample.java`](./DoubleExample.java)

@@ -106,4 +106,4 @@ public class StringExample {
 }
 ```
 
-> **For more:** [`StringExample.java`](./StringExample.java)
+> **For more:** [`StringDataType.java`](./StringDataType.java)

@@ -111,4 +111,4 @@ public class IntExamples {
 }
 ```
 
-> **For more:** [`IntExample.java`](./IntExample.java)
+> **For more:** [`IntDataTypes.java`](./IntDataTypes.java)

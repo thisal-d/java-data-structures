@@ -123,4 +123,4 @@ public class BooleanWrapperExample {
 
 ```
 
-> **For more:** [BooleanWrapperExample.java](./BooleanWrapperExample.java)
+> **For more:** [BooleanWrapperClass.java](./BooleanWrapperClass.java)

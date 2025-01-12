@@ -141,4 +141,4 @@ public class CharacterWrapperExample {
 }
 ```
 
-> **For more:** [CharacterWrapperExample.java](./CharacterWrapperExample.java)
+> **For more:** [CharacterWrapperClass.java](./CharacterWrapperClass.java)

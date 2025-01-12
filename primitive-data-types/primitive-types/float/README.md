@@ -96,4 +96,4 @@ public class FloatExamples {
 }
 ```
 
-> **For more:** [`FloatExample.java`](./FloatExample.java)
+> **For more:** [`FloatDataType.java`](./FloatDataType.java)

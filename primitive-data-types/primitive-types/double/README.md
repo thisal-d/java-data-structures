@@ -97,4 +97,4 @@ public class DoubleExamples {
 }
 ```
 
-> **For more:** [`DoubleExample.java`](./DoubleExample.java)
+> **For more:** [`DoubleDataType.java`](./DoubleDataType.java)

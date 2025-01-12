@@ -112,4 +112,4 @@ public class CharExamples {
 }
 ```
 
-> **For more:** [CharExample.java](./CharExample.java)
+> **For more:** [CharDataType.java](./CharDataType.java)

@@ -65,4 +65,4 @@ public class BooleanExamples {
 }
 ```
 
-> **For more:** [`BooleanExample.java`](./BooleanExample.java)
+> **For more:** [`BooleanDataType.java`](./BooleanDataType.java)

@@ -110,4 +110,4 @@ public class DoubleWrapperExample {
 }
 ```
 
-> **For more:** [`DoubleWrapperExample.java`](./DoubleWrapperExample.java)
+> **For more:** [`DoubleWrapperClass.java`](./DoubleWrapperClass.java)

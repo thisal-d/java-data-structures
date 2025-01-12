@@ -104,4 +104,4 @@ public class FloatWrapperExample {
 }
 ```
 
-> **For more:** [`FloatWrapperExample.java`](./FloatWrapperExample.java)
+> **For more:** [`FloatWrapperClass.java`](./FloatWrapperClass.java)

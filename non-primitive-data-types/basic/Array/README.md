@@ -100,4 +100,4 @@ public class ArrayExample {
 }
 ```
 
-> **For more:** [`ArrayExample.java`](./ArrayExample.java)
+> **For more:** [`ArrayDataType.java`](./ArrayDataType.java)

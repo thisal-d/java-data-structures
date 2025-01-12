@@ -113,3 +113,5 @@ public class LinkedListDataStructure {
     }
 }
 ```
+
+> **For more:** [`LinkedListDataStructure.java`](./LinkedListDataStructure.java)

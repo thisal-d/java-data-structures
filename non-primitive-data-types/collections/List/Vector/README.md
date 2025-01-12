@@ -107,3 +107,5 @@ public class VectorDataStructure {
     }
 }
 ```
+
+> **For more:** [`VectorDataStructure.java`](./VectorDataStructure.java)

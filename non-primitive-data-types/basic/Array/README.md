@@ -38,11 +38,17 @@ An array in Java is a data structure that can hold multiple values of the same t
 
 ---
 
-# Static Methods
+## Static Methods
+
+```java
+int arr[] = {20, 41, 3, 23}; // Use this as an example
+
+int arr_2[] = new int[3]; // Empty array
+```
 
 | **Method**                                  | **Description**                                                            | **Return Type**    | **Example**                                     |
 |---------------------------------------------|----------------------------------------------------------------------------|--------------------|-------------------------------------------------|
-| `copyOf(int[] original, int newLength)`     | Copies the specified array, truncating or padding with `0` or `null`.       | `int[]`            | `Arrays.copyOf(arr, 10);`                       |
+| `copyOf(int[] original, int newLength)`     | Copies the specified array, truncating or padding with `0` or `null`.       | `int[]`            | `Arrays.copyOf(arr, 2);`                       |
 | `fill(int[] array, int val)`                | Fills the array with the specified value.                                   | `void`             | `Arrays.fill(arr, 5);`                         |
 | `equals(int[] a, int[] b)`                  | Compares two arrays for equality.                                           | `boolean`          | `Arrays.equals(arr1, arr2);`                   |
 | `sort(int[] a)`                             | Sorts the specified array in ascending order.                              | `void`             | `Arrays.sort(arr);`                            |
@@ -57,11 +63,15 @@ An array in Java is a data structure that can hold multiple values of the same t
 
 ## Instance Methods
 
-| **Method**  | **Description**                          | **Return Type**    | **Example**                                  |
-|-------------|------------------------------------------|--------------------|----------------------------------------------|
-| `length`    | Returns the length of the array.         | `int`              | `arr.length;`                                |
-| `clone()`   | Creates a copy of the array.             | `Object`           | `arr.clone();`                               |
-| `hashCode()`| Returns a hash code value for the array. | `int`              | `arr.hashCode();`                            |
+```java
+int arr[] = {20, 41, 3, 23}; // Use this as an example
+```
+
+| **Method**  | **Description**                          | **Return Type**    | **Example**                                  | **Retuwn Value** |
+|-------------|------------------------------------------|--------------------|----------------------------------------------|------------------|
+| `length`    | Returns the length of the array.         | `int`              | `arr.length;`                                |`4` (Length of the array)|
+| `clone()`   | Creates a copy of the array.             | `Object`           | `arr.clone();`                               |`{20, 41, 3, 23}` (A new array)|
+| `hashCode()`| Returns a hash code value for the array. | `int`              | `arr.hashCode();`                            | An integer (e.g : `12345678`)|
 
 ---
 
